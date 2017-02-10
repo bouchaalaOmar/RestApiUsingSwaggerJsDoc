@@ -1,0 +1,19 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple book store app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "swagger-jsdoc": "^1.9.1",
+    "swagger-ui-express": "^1.0.4"
+  },
+  "author": "omar bouchaala",
+  "license": "ISC"
+}
